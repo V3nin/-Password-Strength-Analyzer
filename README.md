@@ -29,33 +29,26 @@ The goal is to raise awareness about password security in a clear and visual way
 
 ### Installation
 
-This project requires the following Python package:
+No installation required.
 
-```bash
-pip install pillow
-````
-
-> `tkinter` is included by default with Python.
+This project is distributed as a **standalone Windows executable (.exe)**.  
+Python and dependencies are already included in the executable.
 
 ### Usage
 
-1. Run the script:
-
-```bash
-python password_strength_gui.py
-```
-
-2. Enter a password in the input field.
-3. Click **Analyze** to see the strength result.
-4. The analysis is performed locally and instantly.
+1. Download the `.exe` file.
+2. Double-click to launch the application.
+3. Enter a password in the input field.
+4. Click **Analyze** to see the strength result.
 
 ### Security Notes
 
 * Passwords are analyzed **locally only**
 * No data is stored, logged, or transmitted
-* This tool is intended for **educational and awareness purposes**
+* Runs entirely offline
+* Intended for **educational and awareness purposes**
 
 ---
 
-Developed by **p8pc**
+Developed by **p8pc**  
 Licensed under the **MIT License**
